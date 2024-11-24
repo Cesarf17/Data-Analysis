@@ -51,9 +51,9 @@ Run project.py to perform the analysis
 
 👥 Contributors
 
+👨‍💻 Cesar Frayre
 👩‍💻 Jennifer Ruiz
 👨‍💻 Eric Ruiz
-👨‍💻 Cesar Frayre
 
 
 Made with 💖 for future graduates
